@@ -1,4 +1,6 @@
 
+[![Build Status](https://faisalmohammad.visualstudio.com/Space%20Game%20-%20web%20-%20SonarCloud/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://faisalmohammad.visualstudio.com/Space%20Game%20-%20web%20-%20SonarCloud/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
